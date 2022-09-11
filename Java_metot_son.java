@@ -1,4 +1,3 @@
-import java.security.cert.X509CRLEntry;
 import java.util.Scanner;
 
 public class Java_metot_son {
